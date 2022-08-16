@@ -1,4 +1,5 @@
 import { Modal, useMantineTheme } from '@mantine/core';
+import './InfoModal.css';
 
 interface Props {
     isModalOpened: boolean,
